@@ -1,6 +1,7 @@
 require 'nokogiri'
-require 'open-uri'
+require 'webdrivers'
+require 'watir'
 require 'pry'
 
-class Scraper < ApplicationRecord
+class Scraper
 end
